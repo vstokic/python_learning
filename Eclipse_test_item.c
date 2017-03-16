@@ -45,3 +45,6 @@ Vaso1
 
 Vaso2
 >>>>>>> f6eca57 Vaso2
+
+
+//Source tree testing
