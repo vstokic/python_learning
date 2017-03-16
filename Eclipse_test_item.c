@@ -32,6 +32,7 @@ IP changes
 
 
 <<<<<<< Upstream, based on master
+<<<<<<< Upstream, based on master
 Master1
 
 
@@ -39,3 +40,8 @@ Master2
 =======
 Vaso1
 >>>>>>> da867cf Vaso1
+=======
+Vaso1
+
+Vaso2
+>>>>>>> f6eca57 Vaso2
