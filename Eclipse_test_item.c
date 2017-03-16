@@ -31,7 +31,11 @@ IP changes
 //Branch test
 
 
+<<<<<<< Upstream, based on master
 Master1
 
 
 Master2
+=======
+Vaso1
+>>>>>>> da867cf Vaso1
